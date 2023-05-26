@@ -1,1 +1,1 @@
-# Trailmix by Granola Arcade
+# TrailMix by Granola Arcade
