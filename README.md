@@ -13,4 +13,4 @@ The STL file for the case is optimized for FDM 3D printers. We recommend PLA but
 You will also need to source your own key switches and keycaps. The TrailMix uses Choc v1 low-profile keyboard switches.
 
 ## Credits
-The TrailMix was designed by Mike Switzer. The GP2040-CE firmware is maintained by <a href="https://github.com/OpenStickCommunity">OpenStickCommunity</a>.
+The TrailMix was designed by Michael Switzer. The GP2040-CE firmware is maintained by <a href="https://github.com/OpenStickCommunity">OpenStickCommunity</a>.
