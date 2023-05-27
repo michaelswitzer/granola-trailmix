@@ -1,6 +1,8 @@
 # TrailMix by Granola Arcade
 The TrailMix is a button box style arcade controller by Granola Arcade. It is designed to provide the minimum cost professional grade arcade stick available-- The design of the stick is simplified down to the core, without any of the bells and whistles that add cost and complexity. Win your local without breaking the bank!
 
+You can buy the TrailMix at https://granola.games
+
 The TrailMix is designed to use the <a rel="GP2040-CE firmware" href="https://github.com/OpenStickCommunity/GP2040-CE">GP2040-CE firmware</a>. If you wish to use different firmware, you can view the schematic files to understand the pinouts. If you bridge the Boot and GND pins (marked "J1" on the PCB) as you plug in the USB cord, you can upload new firmware in .uf2 format.
 
 ## Build your own
