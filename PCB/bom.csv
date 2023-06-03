@@ -4,8 +4,9 @@ Comment,Designator,Footprint,LCSC Part Number
 100nF,"C5,C6,C7,C9,C11,C12,C13,C14,C15,C16",Capacitor_SMD:C_0402_1005Metric,C115671
 1uF,"C8,C10",Capacitor_SMD:C_0402_1005Metric,C5137485
 10uF,C17,Capacitor_SMD:C_0805_2012Metric,C83061
-USB_Micro-B,J2,Connector_USB:USB_Micro-B_Amphenol_10103594-0001LF_Horizontal,C428495
+"HRO-TYPE-C-31-M-12","USB1","Type-C:HRO-TYPE-C-31-M-12-Assembly","C165948"
 1k,"R1,R5",Capacitor_SMD:C_0402_1005Metric,C105637
+"5.1k","R6,R7","Resistor_SMD:R_0402_1005Metric","C25905"
 27 ohm,"R3,R4",Capacitor_SMD:C_0402_1005Metric,C2909343
 6mm_Button,"SW1,SW2,SW3,SW4,SW5,SW6",Button_Switch_THT:SW_PUSH_6mm,C782807
 AMS1117,U1,Package_TO_SOT_SMD:SOT-223-3_TabPin2,C5250992

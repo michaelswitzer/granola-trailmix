@@ -121,6 +121,7 @@
       "track_widths": [
         0.0,
         0.2,
+        0.4,
         0.5,
         0.8
       ],
@@ -353,7 +354,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "mork_pad_simple.kicad_pro",
+    "filename": "granola-trailmix.kicad_pro",
     "version": 1
   },
   "net_settings": {
