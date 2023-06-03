@@ -6,7 +6,7 @@ You can buy the TrailMix at https://granola.games
 ## Build your own
 The TrailMix is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>. In simple terms, this means you are welcome to use or remix these designs to build your own TrailMix free of cost. You are *not* permitted to sell the TrailMix commercially, or republish the designs without attribution and carrying this license forward into the new design. For more information see the license file in this repository.
 
-To build your own TrailMix, import the PCB designs and bill of materials using KiCAD. We provided a list of parts that use JLCPCB's part assembly services, since that is the company we use to manufacture the PCB. You can use these files as a starting point for building your own PCB. You must generate your own gerber files, drill files and part placement files.
+To build your own TrailMix, import the PCB designs and bill of materials using KiCAD. We provided a list of parts that use JLCPCB's part assembly services, since that is the company we use to manufacture the PCB. You can use these files as a starting point for building your own PCB.
 
 The STL file for the case is optimized for FDM 3D printers. We recommend PLA but you can use any material you wish.
 
