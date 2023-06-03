@@ -16,4 +16,4 @@ You will also need to source your own key switches and keycaps. The TrailMix use
 The TrailMix is designed to use the <a rel="GP2040-CE firmware" href="https://github.com/OpenStickCommunity/GP2040-CE">GP2040-CE firmware</a>. If you wish to use different firmware, you can view the schematic files to understand the pinouts. If you bridge the Boot and GND pins (marked "J1" on the PCB) as you plug in the USB cord, you can upload new firmware in .uf2 format.
 
 ## Credits
-The TrailMix was designed by Michael Switzer. The GP2040-CE firmware is maintained by <a href="https://github.com/OpenStickCommunity">OpenStickCommunity</a>.
+The TrailMix was designed by Michael Switzer. The GP2040-CE firmware is maintained by <a href="https://github.com/OpenStickCommunity">OpenStickCommunity</a>. This project was inspired by the <a href="https://github.com/jfedor2/flatbox">Flatbox</a>.
