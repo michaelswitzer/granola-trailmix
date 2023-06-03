@@ -10,7 +10,7 @@ To build your own TrailMix, import the PCB designs and bill of materials using K
 
 The STL file for the case is optimized for FDM 3D printers. We recommend PLA but you can use any material you wish.
 
-You will also need to source your own key switches and keycaps. The TrailMix uses Choc v1 low-profile keyboard switches.
+You will also need to source your own key switches and keycaps. The TrailMix uses Kailh low-profile "Choc v1" keyboard switches.
 
 ## Firmware
 The TrailMix is designed to use the <a rel="GP2040-CE firmware" href="https://github.com/OpenStickCommunity/GP2040-CE">GP2040-CE firmware</a>. If you wish to use different firmware, you can view the schematic files to understand the pinouts. If you bridge the Boot and GND pins (marked "J1" on the PCB) as you plug in the USB cord, you can upload new firmware in .uf2 format.
