@@ -8,9 +8,9 @@ First, you should decide if building your own TrailMix is the right choice for y
 
 The TrailMix is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>. In simple terms, this means you are welcome to use or remix these designs to build your own TrailMix free of cost. You are *not* permitted to sell the TrailMix commercially. You also can't republish the designs without attribution and without carrying this license forward into your new designs. For more information see the license file in this repository.
 
-To build your own TrailMix, import the PCB designs and bill of materials using KiCAD. We provided a list of parts that use JLCPCB's part assembly services, since that is the company we use to manufacture the PCB. You can use these files as a starting point for building your own PCB.
+To build your own TrailMix, import the PCB designs and bill of materials using KiCAD. I provided a list of parts that use JLCPCB's part assembly services, since that is the company I use to manufacture the PCB. You can use these files as a starting point for building your own PCB.
 
-The STL file for the case is optimized for FDM 3D printers. We recommend PLA but you can use any material you wish. The case is designed to be printed on the thin edge on the top side, which can cause some stability challenges when printing. **This orientation is better suited to printers that do not move their print bed side to side, and can be tricky to print on Prusa/Ender/etc. printers.** If you use a "bed slinger" printer such as these, make sure you have good bed adhesion.
+The STL file for the case is optimized for FDM 3D printers. I recommend PLA with at least 15% infill but you can use any material you wish. The case is designed to be printed on the thin edge on the top side, which can cause some stability challenges when printing. **This orientation is better suited to printers that do not move their print bed side to side, and can be tricky to print on Prusa/Ender/etc. printers.** If you use a "bed slinger" printer such as these, make sure you have good bed adhesion.
 
 You will also need to source your own key switches and keycaps. The TrailMix uses Kailh low-profile "Choc v1" keyboard switches.
 
