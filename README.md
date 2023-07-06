@@ -1,4 +1,7 @@
 # TrailMix by Granola Arcade
+
+![TrailMix fightstick](/Images/trailmix.jpg "TrailMix fightstick")
+
 The TrailMix is a button box style arcade controller by Granola Arcade. It is designed to provide the minimum cost professional grade arcade stick available. The design of the TrailMix is simplified down to the core, without any of the bells and whistles that add cost and complexity. Win your local without breaking the bank!
 
 You can buy the TrailMix at https://granola.games
