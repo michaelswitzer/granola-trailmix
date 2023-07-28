@@ -6,8 +6,8 @@ The TrailMix is a button box style arcade controller by Granola Arcade. It is de
 
 You can buy the TrailMix at https://granola.games
 
-## Should you make your own?
-First, you should decide if building your own TrailMix is the right choice for you. It will definitely be more expensive than buying one directly from Granola Arcade, and it isn't as fun to put together as some of the other DIY options. Nevertheless, if you decide to press on, the files in this repository should have everything you need.
+## Should you make a TrailMix?
+Building your own TrailMix will definitely be more expensive than buying one directly from Granola Arcade, and it isn't as fun to put together as some of the other DIY options out there. Nevertheless, if you decide to press on, the files in this repository should have everything you need.
 
 ## License
 The TrailMix is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>. In simple terms, this means you are welcome to use or remix these designs to build your own TrailMix free of cost. You are *not* permitted to sell the TrailMix commercially. You also can't republish the designs without attribution and without carrying this license forward into your new designs. For more information see the license file in this repository.
